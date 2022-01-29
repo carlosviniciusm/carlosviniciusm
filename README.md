@@ -8,9 +8,9 @@
 ### 💬 About me
 
 I started working with programming in 2019 and learned many technologies like PHP, JQuery, MySQL, Rabbit, and Docker.
+</p>
 Since then I have been studying and working with PHP projects that involve several areas such as data management, sales process, data migration, report generation, API comunication and others.
-<p>I'm currently focused on the back-end, but I've worked on projects that required front-end changes.
-Currently I work at Just Digital as a mid-level deveoper and work with PHP, MariaDB, Jquery, Sass, Node.js and anything they need.</p>
+<p>I'm currently focused on the back-end and currently I work at Just Digital as a mid-level deveoper and work with PHP, MariaDB, Jquery, Sass and Node.js.</p>
 
 ### 📬 Contact
 <p>
