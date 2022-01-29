@@ -5,14 +5,17 @@
  <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
 
-### 💬 About me
+### 💬 Sobre mim
 
-I started working with programming in 2019 and learned many technologies like PHP, JQuery, MySQL, Rabbit, and Docker.
-Since then I have been studying and working with PHP projects that involve several areas such as data management, sales process, data migration, report generation, API comunication and others.
-<p>I'm currently focused on the back-end, but I've worked on projects that required front-end changes.
-Currently I work at Just Digital as a mid-level deveoper and work with PHP, MariaDB, Jquery, Sass, Node.js and anything they need.</p>
+Comecei a trabalhar com programação em 2019 e aprendi muitas tecnologias como PHP, JQuery, MySQL, Rabbit, e Docker.
+<p/>
+Desde então venho trabalhando e estudando com projetos em PHP que envolvem diversas áreas como gerenciamento das informações, processo de venda, migração de dados, geração de relatórios, comunicação de APIs, integração e outros.
 
-### 📬 Contact
+<p>
+ Sou mais focado no back-end e atualmente estou trabalhando na Just Digital como desenvolvedor pleno e utilizando PHP, MariaDB, Jquery, Sass e Node.js nos projetos.
+</p>
+
+### 📬 Contato
 <p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-%20carlosviniciusmelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosviniciusmelo/)](https://www.linkedin.com/in/carlosviniciusmelo/)
@@ -20,7 +23,7 @@ Currently I work at Just Digital as a mid-level deveoper and work with PHP, Mari
 [![Gmail Badge](https://img.shields.io/badge/-%20cvmm321@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:cvmm321@gmail.com)](mailto:cvmm321@gmail.com)
 
 #
-### <b>&nbsp;🚀💻 Technologies & Tools</b></summary><br/>
+### <b>&nbsp;🚀💻 Tecnologias e Ferramentas</b></summary><br/>
 
 <strong>Front-end</strong>
 <p align="left"> 
@@ -45,7 +48,7 @@ Currently I work at Just Digital as a mid-level deveoper and work with PHP, Mari
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
 </p>
 
-<strong>Databases</strong>
+<strong>Bancos de dados</strong>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
@@ -53,7 +56,7 @@ Currently I work at Just Digital as a mid-level deveoper and work with PHP, Mari
   <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="MariaDB" title="MariaDB" width="40" height="40"/>
 </p>
 
-<strong>Others</strong>
+<strong>Outros</strong>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer" title="Composer" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
@@ -67,12 +70,12 @@ Currently I work at Just Digital as a mid-level deveoper and work with PHP, Mari
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" title="Slack" width="40" height="40"/>
 </p>
 
-<strong>Agile Methodology</strong>
+<strong>Metodologias ágeis</strong>
 <p align="left">
   <img src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png" alt="Scrum" title="Scrum" width="40" height="40"/>
 </p>
 
-### <b>:brain: &nbsp;Learning</b></summary><br/>
+### <b>:brain: &nbsp;Aprendendo</b></summary><br/>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg" alt="Drupal" title="Drupal" width="40" height="40"/>
   <img src="https://www.acquia.com/sites/default/files/styles/product_header_icon/public/media/image/2020-12/Site-Studio-Logo.png?itok=sZ3wHzMF" alt="Site Studio" title="Site Studio" width="40" height="40"/>
@@ -80,7 +83,7 @@ Currently I work at Just Digital as a mid-level deveoper and work with PHP, Mari
 </p>
 
 #
-:heavy_check_mark:<strong>Certification</strong>
+:heavy_check_mark:<strong>Certificações</strong>
 
 <p align="left">
   <a href="https://www.credly.com/badges/73f465d8-e4da-4b5d-a9e7-c7f9370c9625">
