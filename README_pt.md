@@ -83,7 +83,7 @@ Desde então venho trabalhando e estudando com projetos em PHP que envolvem dive
 </p>
 
 #
-:heavy_check_mark:<strong>Certificações</strong>
+:heavy_check_mark:<strong> Certificações</strong>
 
 <p align="left">
   <a href="https://www.credly.com/badges/73f465d8-e4da-4b5d-a9e7-c7f9370c9625">
