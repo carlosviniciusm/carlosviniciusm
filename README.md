@@ -11,7 +11,7 @@ I started working with programming in 2019 and learned many technologies like PH
 <p>
 Since then I have been studying and working with PHP projects that involve several areas such as data management, sales process, e-commerce, data migration, report generation, API communication and others.
 </p>
-<p>I'm currently focused on the back-end and currently I work at Just Digital as a mid-level developer and work with PHP, MariaDB, Jquery, Sass and Node.js.</p>
+<p>I'm currently focused on the back-end and currently I work at SevenSys as a mid-level developer and work with PHP, MariaDB, Jquery, Sass and Node.js.</p>
 
 ### 📬 Contact
 <p>
