@@ -12,7 +12,7 @@ Comecei a trabalhar com programação em 2019 e aprendi muitas tecnologias como 
 Desde então venho trabalhando e estudando com projetos em PHP que envolvem diversas áreas como gerenciamento das informações, processo de venda, migração de dados, geração de relatórios, comunicação de APIs, integração e outros.
 
 <p>
- Sou mais focado no back-end e atualmente estou trabalhando na Just Digital como desenvolvedor pleno e utilizando PHP, MariaDB, Jquery, Sass e Node.js nos projetos.
+ Sou mais focado no back-end e atualmente estou trabalhando na SevenSys como desenvolvedor pleno e utilizando PHP, MariaDB, Jquery, Sass e Node.js nos projetos.
 </p>
 
 ### 📬 Contato
